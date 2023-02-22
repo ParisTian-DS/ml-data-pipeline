@@ -1,0 +1,11 @@
+{
+    "terminal.integrated.shellArgs.osx": ["-l"],
+    "editor.tabCompletion": "on",
+    "diffEditor.codeLens": true,
+    "terminal.integrated.defaultProfile.osx": null,
+    "terminal.integrated.enableMultiLinePasteWarning": true,
+    "terminal.integrated.automationProfile.osx": {
+
+    }
+   
+}
